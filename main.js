@@ -1,3 +1,5 @@
+import './main.css'
+
 const c = {}
 const d = 3
 
